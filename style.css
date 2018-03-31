@@ -1,0 +1,40 @@
+body
+{
+	;
+	padding: 0;
+	margin: 0;
+}
+
+#div1
+{
+	background-color: white;
+	height: 94px;
+}
+
+#f
+{
+	float: left;
+}
+
+#font
+{
+	font-style: bold;
+	font-family: calibri;
+	color: grey;
+}
+#categories
+{
+	color: white;
+	font-size: 25px;
+	list-style: none;
+	margin-left: 30px;
+	 text-decoration: none;
+	 font-family: calibri;
+
+}
+#range{
+	color: white;
+	font-size: 18px;
+font-family: calibri;
+	margin-left: 30px;
+}
